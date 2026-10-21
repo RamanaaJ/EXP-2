@@ -70,7 +70,6 @@ Fuse rating = 125% of rated current (full-load current).
 | 5 | 5.5 | 200 |
 | 6 | 7.0 | 195 |
 
-# Model Graph
 
 ## Open Circuit Characteristics:
 Plot field current (Iᶠ) on the X-axis and generated voltage (E₀) on the Y-axis using the open-circuit observation table.
