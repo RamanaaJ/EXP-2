@@ -2,7 +2,7 @@
 # OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
 # Aim:
-To conduct the open circuit test and load test on a DC shunt generator and to obtain its characteristics.
+Study of load characteristic and magnetic characteristic of DC.
 
 # Apparatus Required:
 
